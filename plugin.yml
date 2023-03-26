@@ -1,0 +1,8 @@
+name: TOSS
+version: '${project.version}'
+main: toss.tossminecraft.Tossminecraft
+api-version: 1.19
+prefix: [ TOSS ]
+loadbefore: [ TOSS is loading... ]
+authors: [ qmffnald ]
+description: Toss뱅크와 마인크래프트를 연동하는 시스템입니다!
